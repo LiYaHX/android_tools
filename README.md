@@ -1,6 +1,6 @@
 # android_tools
 
-#### Android APK 重新签名工具
+#### Android APK 批量重签名工具
 
 ##### 操作方式：
 	（1）安装 apktool；
