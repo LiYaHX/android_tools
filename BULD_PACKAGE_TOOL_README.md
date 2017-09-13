@@ -1,4 +1,4 @@
-### 批量打包工具
+### Android APK 批量打包工具
 
 使用 gradle，在 build.gradle 中进行相应配置
 
