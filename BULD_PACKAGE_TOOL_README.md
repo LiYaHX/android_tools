@@ -1,10 +1,3 @@
----
-layout: "post"
-title: "README_OF_BULK_PACKAGING"
-date: "2017-09-13 21:27"
----
-
-** 中文版 **
 ### 批量打包工具
 
 使用 gradle，在 build.gradle 中进行相应配置
