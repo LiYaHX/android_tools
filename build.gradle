@@ -93,7 +93,7 @@ android {
         }
     }
 
-    // 3. build config
+    // 3. build config, include debug mode and release mode
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
