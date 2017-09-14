@@ -66,6 +66,7 @@ android {
         ignoreWarnings true
     }
 
+    // 1. channals
     productFlavors {
         // file of channal names for publishing the apk
 	def path = "./channel.txt"
@@ -76,6 +77,7 @@ android {
         }
     }
 
+    // 2. keystore config	
     signingConfigs {
         release {
             storeFile file("publish keystore path")
@@ -91,6 +93,7 @@ android {
         }
     }
 
+    // 3. build config
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
